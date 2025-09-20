@@ -10,5 +10,6 @@ func main() {
 
 	var nums = make([]int, 2)
 	fmt.Println(nums)
+	fmt.Println(cap(nums))
 
 }
